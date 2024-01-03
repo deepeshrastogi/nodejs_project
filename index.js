@@ -4,12 +4,12 @@ app.get('/',(req,res)=>{
     res.json([
         {
             id:1,
-            name:"Deepesh",
-            age:40   
+            name:"Deepesh Rastogi",
+            age:30   
         },
         {
             id:2,
-            name:"Ravi",
+            name:"Ravi Singh",
             age:20   
         },
     ])
